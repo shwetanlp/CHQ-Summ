@@ -12,12 +12,16 @@ pip install -r requirements.txt
 
 2. Train MLE Model
     ```
+     python main.py --train_mode mle
     ```
 
 3. Train MLE + RL Model
     ```
+    python main.py --train_mode rl --trained_model_path /path/to/the/trained/mle/model
     ```
 
 4. Test Model
     ```
+    python main.py --model test --trained_model_path /path/to/the/saved/model
+
     ```
