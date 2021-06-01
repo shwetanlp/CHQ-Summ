@@ -1,0 +1,106 @@
+absl-py==0.11.0
+astunparse==1.6.3
+bert-score @ git+https://github.com/Tiiiger/bert_score@3dad430eb966fb5e4c1e158a968bf2a8d5f23fe6
+BLEURT @ file:///gpfs/gsfs12/users/shwetaf2/Work/bleurt
+blis==0.7.4
+cachetools==4.2.0
+catalogue==1.0.0
+certifi==2020.12.5
+chardet==4.0.0
+click==7.1.2
+configparser==5.0.1
+cycler==0.10.0
+cymem==2.0.5
+Cython==0.29.21
+datasets==1.2.0
+dill==0.3.3
+docker-pycreds==0.4.0
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.3.1/en_core_web_sm-2.3.1.tar.gz
+en-ner-bionlp13cg-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.3.0/en_ner_bionlp13cg_md-0.3.0.tar.gz
+filelock==3.0.12
+flatbuffers==1.12
+fsspec==0.8.5
+future==0.18.2
+gast==0.3.3
+gitdb==4.0.5
+GitPython==3.1.12
+google-auth==1.24.0
+google-auth-oauthlib==0.4.2
+google-pasta==0.2.0
+grpcio==1.32.0
+h5py==2.10.0
+idna==2.10
+importlib-metadata==3.3.0
+joblib==1.0.0
+Keras-Preprocessing==1.1.2
+kiwisolver==1.3.1
+Markdown==3.3.3
+matplotlib==3.3.3
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+multiprocess==0.70.11.1
+murmurhash==1.0.5
+nltk==3.5
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603479632437/work
+oauthlib==3.1.0
+olefile==0.46
+opt-einsum==3.3.0
+packaging==20.8
+pandas==1.2.0
+Pillow @ file:///tmp/build/80754af9/pillow_1609786740831/work
+plac==1.1.3
+preshed==3.0.5
+promise==2.3
+protobuf==3.14.0
+psutil==5.8.0
+py-rouge==1.1
+pyarrow==2.0.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytorch-lightning==1.1.0
+pytz==2020.5
+PyYAML==5.3.1
+regex==2020.11.13
+requests==2.25.1
+requests-oauthlib==1.3.0
+rsa==4.6
+sacremoses==0.0.43
+scikit-learn==0.24.0
+scipy==1.6.0
+sentencepiece==0.1.94
+sentry-sdk==0.19.5
+shortuuid==1.0.1
+six @ file:///tmp/build/80754af9/six_1605205313296/work
+sklearn==0.0
+smmap==3.0.4
+spacy==2.3.5
+spacymm @ file:///gpfs/gsfs12/users/shwetaf2/MEDIQA21/data/spaCyMM-master
+srsly==1.0.5
+subprocess32==3.5.4
+tensorboard==2.4.0
+tensorboard-plugin-wit==1.7.0
+tensorflow==2.4.1
+tensorflow-estimator==2.4.0
+termcolor==1.1.0
+tf-slim==1.1.0
+thinc==7.4.5
+threadpoolctl==2.1.0
+tokenizers==0.9.4
+torch==1.7.1
+torchaudio==0.7.0a0+a853dff
+torchvision==0.8.2
+tqdm==4.49.0
+transformers==4.1.1
+typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1598376058250/work
+urllib3==1.26.2
+wandb==0.10.12
+wasabi==0.8.0
+watchdog==1.0.2
+Werkzeug==1.0.1
+wrapt==1.12.1
+xlrd==2.0.1
+xxhash==2.0.0
+zipp==3.4.0
