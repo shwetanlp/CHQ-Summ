@@ -7,6 +7,8 @@ The code requires **Python 3** and please install the Python dependencies with t
 pip install -r requirements.txt
 ```
 
+The original MeQSum dataset is available [here](https://github.com/abachaa/MeQSum).
+
 
 ### Running the code 
 1. Please make sure the pre-trained question-type identification and question-focus recognition models from [here](https://drive.google.com/drive/folders/1ePtuMPR20rZSgZbarSnno4-sqazLJVn0?usp=sharing) and 
