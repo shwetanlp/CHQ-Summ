@@ -7,7 +7,7 @@ The code requires **Python 3** and please install the Python dependencies with t
 pip install -r requirements.txt
 ```
 
-1. Please make sure the pre-trained question-type identification and question-focus recognition model from [here](https://drive.google.com/drive/folders/1ePtuMPR20rZSgZbarSnno4-sqazLJVn0?usp=sharing) and 
+1. Please make sure the pre-trained question-type identification and question-focus recognition models from [here](https://drive.google.com/drive/folders/1ePtuMPR20rZSgZbarSnno4-sqazLJVn0?usp=sharing) and 
     place it in the current directory.
 2. Train MLE Model
     ```
