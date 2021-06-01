@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 2. Train MLE Model
     ```
-     python main.py --train_mode mle
+     python main.py --train_mode mle --model_dir /path/to/save/the/mle/model
     ```
 
 3. Train MLE + RL Model
