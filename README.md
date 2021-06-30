@@ -22,7 +22,7 @@ The original MeQSum dataset is available [here](https://github.com/abachaa/MeQSu
 
 3. Train MLE + RL Model
     ```
-    python main.py --train_mode rl --trained_model_path /path/to/the/trained/mle/model
+    python main.py --train_mode rl --trained_model_path /path/to/the/fine-tuned/prophetnet/model
     ```
 
 4. Test Model
