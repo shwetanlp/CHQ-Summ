@@ -11,13 +11,14 @@ The original MeQSum dataset is available [here](https://github.com/abachaa/MeQSu
 
 
 ### Running the code 
-1. Please make sure the pre-trained question-type identification and question-focus recognition models from [here](https://drive.google.com/drive/folders/1ePtuMPR20rZSgZbarSnno4-sqazLJVn0?usp=sharing) and 
+1. Please make sure to download the pre-trained question-type identification and question-focus recognition models from [here](https://drive.google.com/drive/folders/1ePtuMPR20rZSgZbarSnno4-sqazLJVn0?usp=sharing) and 
     place it in the current directory.
 
-2. Train MLE Model
-    ```
-     python main.py --train_mode mle --model_dir /path/to/save/the/mle/model
-    ```
+2. Fine tune ProphetNet model on MeQSum dataset
+
+    Follow the instrcution from transformers repo.
+    https://github.com/huggingface/transformers/tree/v4.1.1/examples/seq2seq
+ 
 
 3. Train MLE + RL Model
     ```
