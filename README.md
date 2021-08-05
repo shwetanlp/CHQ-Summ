@@ -35,8 +35,6 @@ The original MeQSum dataset is available [here](https://github.com/abachaa/MeQSu
 ## Reference
 
 If you are using this code for your reseach work then please cite our paper:
-
-
 ```
 @inproceedings{yadav-etal-2021-reinforcement,
     title = "Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards",
@@ -52,4 +50,5 @@ If you are using this code for your reseach work then please cite our paper:
     url = "https://aclanthology.org/2021.acl-short.33",
     doi = "10.18653/v1/2021.acl-short.33",
     pages = "249--255"
+    }
 ```
