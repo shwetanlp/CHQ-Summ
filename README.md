@@ -30,3 +30,26 @@ The original MeQSum dataset is available [here](https://github.com/abachaa/MeQSu
     python main.py --model test --trained_model_path /path/to/the/saved/model
 
     ```
+
+
+## Reference
+
+If you are using this code for your reseach work then please cite our paper:
+
+
+```
+@inproceedings{yadav-etal-2021-reinforcement,
+    title = "Reinforcement Learning for Abstractive Question Summarization with Question-aware Semantic Rewards",
+    author = "Yadav, Shweta  and
+      Gupta, Deepak  and
+      Ben Abacha, Asma  and
+      Demner-Fushman, Dina",
+    booktitle = "Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (Volume 2: Short Papers)",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.acl-short.33",
+    doi = "10.18653/v1/2021.acl-short.33",
+    pages = "249--255"
+```
